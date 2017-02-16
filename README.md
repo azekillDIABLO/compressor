@@ -24,6 +24,6 @@ Report bugs on the forum topic or open a issue on GitHub.
 
 Authors
 -------
-* Original Work: cd2 (cdqwertz) - <cdqwertz.github.io>
+* Original Work: cd2 (cdqwertz) - cdqwertz.github.io
 * Modified Work: Vitalie Ciubotaru <vitalie@ciubotaru.tk>
 * Final Changes and Rewrite: azekill_DIABLO <azekill.diablo@gmail.com>

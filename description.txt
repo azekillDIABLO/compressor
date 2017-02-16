@@ -1,4 +1,4 @@
-With this mod, you are able to compress carbon into diamond!!!
+A small Minetest Mod that allows you to turn Coal to Carbon and then in Diamonds.
 
 Crafting:
 	S		 S

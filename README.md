@@ -8,12 +8,15 @@ see LICENSE
 
 Crafting
 --------
-	S		 S
-	S		 S
-	S	MC	 S
+	SI	X	 SI
+	SI	X	 SI
+	SI	MC	 SI
 
-S  : Steel Ingot
-MC : MESE Crystal
+SI : Steel Ingot
+
+MC : Mese Crystal
+
+X  : Empty/Air
 
 Bugs
 ----

@@ -1,0 +1,12 @@
+memor?
+sunos_memor
+mobs
+sunos_tror
+tror?
+intllib?
+default
+vessels
+flowers
+xpanes
+stairs
+doors
